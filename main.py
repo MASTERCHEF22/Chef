@@ -1,7 +1,7 @@
 import encoder 
 
 def main():
-    encoder.encode("Glass2","Glass.mp4",.2,.2,2)
+    encoder.encode("Glass3","Glass.mp4",.1,.1,10)
 
 if __name__== "__main__":
     main()
